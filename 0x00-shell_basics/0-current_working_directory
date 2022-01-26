@@ -1,2 +1,3 @@
 #!/bin/bash
-$ printf "%s\n" $PATH
+pwd
+
