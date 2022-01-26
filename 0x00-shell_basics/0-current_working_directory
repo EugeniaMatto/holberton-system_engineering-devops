@@ -1,1 +1,2 @@
-hh
+#!/bin/bash
+$ printf "%s\n" $PATH
