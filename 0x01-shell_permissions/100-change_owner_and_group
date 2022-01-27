@@ -1,1 +1,2 @@
-dd
+#!/bin/bash
+chown -R vincent:staff
