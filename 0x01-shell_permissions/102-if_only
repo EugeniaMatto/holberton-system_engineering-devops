@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -reference=guillaume vincent
+chown --from=guillaume vincent * -R
