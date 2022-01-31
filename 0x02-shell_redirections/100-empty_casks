@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty | cut -d" " -f 9
+ls-laR | find . -empty | cut -d" " -f 9
