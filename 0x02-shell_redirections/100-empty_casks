@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty -delete
+find . -empty | cut -d" " -f 9
