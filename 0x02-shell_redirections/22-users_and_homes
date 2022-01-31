@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | cut -d : -f 1,6 /etc/passwd | sort -u
+cut -d : -f 1,6 /etc/passwd | sort -u
