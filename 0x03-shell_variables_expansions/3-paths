@@ -1,3 +1,2 @@
 #!/bin/bash
-(echo $PATH) | cut -d ":/" $PATH
-find /bin::::/home:/usr:::::/home/me -type d | wc -l
+echo $PATH | tr ':' ' ' | wc -w
