@@ -1,2 +1,2 @@
 #!/bin/bash
-find /usr -type d | wc -l
+find /bin::::/home:/usr:::::/home/me -type d | wc -l
