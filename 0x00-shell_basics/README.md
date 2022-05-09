@@ -1,6 +1,6 @@
-**0x00. Shell, basics**
+# **0x00. Shell, basics**
 
-*Learning Objectives*
+## **Learning Objectives**
 - What is the Shell
 - Navigation
 - Manipulating Files
