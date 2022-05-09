@@ -1,4 +1,4 @@
-# **0X01. SHELL**
+# **0x01. Shell, permissions**
 
 ## **Learning Objectives**
 
